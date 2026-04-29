@@ -1,0 +1,12 @@
+{
+  "week": "2025-03-17",
+  "daily_active_users": [470, 495, 488, 510, 492, 170, 62],
+  "modules": [
+    {"name": "Ask Lexroom", "artifacts": 11900, "errors": 210, "avg_response_ms": 2950},
+    {"name": "Drafting", "artifacts": 5600, "errors": 102, "avg_response_ms": 4300},
+    {"name": "Document Analysis", "artifacts": 3400, "errors": 390, "avg_response_ms": 3600},
+    {"name": "Legal Research", "artifacts": 2050, "errors": 55, "avg_response_ms": 2100},
+    {"name": "Contract Review", "artifacts": 1450, "errors": 35, "avg_response_ms": 5400},
+    {"name": "Summarization", "artifacts": 920, "errors": 12, "avg_response_ms": 1250}
+  ]
+}
